@@ -1,5 +1,5 @@
 <div align="center">
- <img src="asset/logo.png" width="400px">
+ <img src="/profile/asset/logo.png" width="400px">
 </div>
 
 # Welcome to ColAI!
