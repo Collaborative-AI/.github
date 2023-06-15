@@ -4,7 +4,7 @@
 
 # Welcome to ColAI!
 
-[**ColAI**]() stands for **Col**laborative **A**rtificial **I**ntelligence for All. We aim to build a reciprocal and collaborative community of shared interest for Artificial General Intelligence (AGI).
+[**ColAI**](https://github.com/Collaborative-AI) stands for **Col**laborative **A**rtificial **I**ntelligence for All. We aim to build a reciprocal and collaborative community of shared interest for Artificial General Intelligence (AGI).
 
 ## Updates
 
